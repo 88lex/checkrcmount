@@ -1,4 +1,5 @@
-#!/bin/bash
+#!/usr/bin/env bash
+#  #!/bin/bash
 > failedmounts
 readarray mounts < <( rclone listremotes )
 for i in ${mounts[@]}; do
