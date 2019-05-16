@@ -4,7 +4,52 @@ Runs the command `rclone listremotes` for each configured remote in rclone, then
 
 Outputs a list of 'failed' mounts that need to be re-authorized.
 
+# Notes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a
+b
+c
+d
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [NOTES](#notes)
+
+[go to heading](#checkrcmount}
 
 
 1.
