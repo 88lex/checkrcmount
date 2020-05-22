@@ -3,7 +3,7 @@ plugins:
   - jekyll-relative-links
 relative_links:
   enabled: true
-  collections:true
+  collections: true
 include:
   - README.md
   - test1.md
