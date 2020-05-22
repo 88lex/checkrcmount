@@ -8,3 +8,5 @@ include:
   - README.md
   - test1.md
   - test2.md
+  - docs/test1.md
+  - docs/test2.md
